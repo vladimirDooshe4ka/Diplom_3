@@ -1,0 +1,12 @@
+Data\UserDataGenerate.class
+client\UserClient.class
+pages\CommonElements.class
+pages\LoginPage.class
+constants\ConstantAPI.class
+Data\UserData.class
+configuration\BrowserProperties.class
+constants\ConstantUi.class
+pages\RegistrationPage.class
+pages\ForgotPasswordPage.class
+pages\ProfilePage.class
+pages\MainPage.class
